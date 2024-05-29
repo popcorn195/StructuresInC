@@ -13,8 +13,6 @@ struct marks
     float m;
 };
 
-//int diff(stu *, int);
-
 int main()
 {
     int n,i,res,j,n1;
