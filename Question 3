@@ -16,7 +16,7 @@ int main()
     struct date d1,d2;
     printf("Enter date 1 (dd mm yyyy): ");
     scanf("%d %d %d",&d1.dd,&d1.mm,&d1.yy);
-    printf("\nEnter date 1 (dd mm yyyy): ");
+    printf("\nEnter date 2 (dd mm yyyy): ");
     scanf("%d %d %d",&d2.dd,&d2.mm,&d2.yy);
     
     
