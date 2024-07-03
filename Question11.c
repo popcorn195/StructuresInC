@@ -1,4 +1,5 @@
-//sort emp 
+//Program to sort employees according to their age
+
 #include <stdio.h>
 
 typedef struct employee
